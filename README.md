@@ -1,7 +1,7 @@
 # Full Stack Web Application - Java Spring Boot, React, and MongoDB  
 
 ## 📌 Overview  
-This project is a **Full Stack Web Application** built using **Java Spring Boot** for the backend, **React.js** for the frontend, and **MongoDB** as the database. It follows a **REST API architecture**, allowing CRUD (Create, Read, Update, Delete) operations efficiently.  
+This Full Stack Web Application is built using **Java Spring Boot** for the backend, **React.js** for the frontend, and **MongoDB** as the database, following a loosely coupled architecture to allow independent development and scaling. The backend, developed using Spring Boot, provides a **RESTful API** with CRUD operations, data persistence using Spring Data MongoDB, and API endpoints secured with proper exception handling. The frontend, developed with React.js, integrates with the backend using Axios, implementing dynamic UI components, routing via React Router, and a responsive design using Bootstrap/Tailwind CSS. The application supports movie management, allowing users to add, update, delete, and retrieve movie details from a MongoDB database, tested using Postman. The project also incorporates Docker for containerization, with deployment capabilities on AWS/GCP, making it a scalable and production-ready full-stack solution.
 
 This application demonstrates:  
 ✔️ **Spring Boot-based REST API** for handling business logic  
