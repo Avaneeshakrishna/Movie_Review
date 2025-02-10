@@ -45,5 +45,4 @@ This application demonstrates:
 
 ---
 
-## 🚀 Getting Started  
 
